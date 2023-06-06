@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## My name is Kehinde Olorunsola
-but you can call me Kenny
+...but you can call me Kenny 😊
 
 I'm an enthusiastic HR Practitioner and Data Analyst who is passionate about making a difference in the data world.  I have a passion for creating impactful experiences in the world of data. I'm also the proud founder of @_thecareerlady, a Twitter platform where I share valuable content related to job opportunities.
 
