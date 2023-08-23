@@ -8,7 +8,7 @@ I'm an enthusiastic HR Practitioner and Data Analyst who is passionate about mak
 - 🔭 I’m currently working on improving and building my data portfolio and analytics skills in Excel, SQL, PowerBi, Tableau, R and Python.
 - 🌱 I’m currently learning everything data!
 - 👩🏾‍💻 Connect with me on twitter: https://twitter.com/_thecareerlady, LinkedIn: https://www.linkedin.com/in/kehinde-olorunsola
-- ⚡ Website: https://kenny-datanerd.github.io/Kenny.github.io/
+- ⚡ Website: https://kenny-datanerd.github.io/kenny.github.io/
 - 📫 How to reach me: Please send a mail to olorunsolakehinde02@gmail.com, i'm happy to connect!
 <!--
 **Kenny-DataNerd/Kenny-DataNerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
